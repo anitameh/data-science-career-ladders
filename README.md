@@ -1,6 +1,6 @@
 # Data Scientists Career Pathways
 ---
-## CONTENTS
+## Contents
 > [1. Getting started](#getting_started)
 >
 > [2. Level progression](#level_progression)
@@ -15,7 +15,7 @@
 * The bullets outlined in each box are the minimum requirements for you to be at this level in that category.
 * The hope is that this is a resource that 1) provides concrete guidelines that you can lean on and 2) a common language to have this discussion with your manager, and Rachel and Sherry.
 
-** Can you explain the track split for IC (individual contributor), and management?**
+**Can you explain the track split for IC (individual contributor), and management?**
 
 * Right before the VP level*, the track splits into parallel tracks, one for management and one for individual contributor.
 * Here, expectations ramp up dramatically: each successive level now can be considered as representing a different job role than the previous level.
@@ -38,16 +38,16 @@
 <a id='level_progression'></a>
 ## 2. Level progression
 
-#### Data Scientist I
+### Data Scientist I
 
-#### Data Scientist II
+### Data Scientist II
 
-#### Data Scientist III
+### Data Scientist III
 
-#### Data Scientist IV
+### Data Scientist IV
 
-#### Data Scientist V
+### Data Scientist V
 
-#### Data Scientist VI
+### Data Scientist VI
 
-#### Data Scientist VII
+### Data Scientist VII
