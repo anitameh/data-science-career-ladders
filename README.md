@@ -1,11 +1,10 @@
 # Data Scientists Career Pathways
----
 
-> [1. Getting started](#getting_started) | [2. Level progression](#level_progression)
+[Getting started](#getting_started) | [Level progression](#level_progression)
 ---
 
 <a id='getting_started'></a>
-## 1. Getting started
+## Getting Started
 
 **Column- and row-names**
 
@@ -35,7 +34,7 @@
 * It is _highly recommended_ that before being promoted, an individual has the experience of having the responsibility and accountability associated with being a squad lead. This will allow you to more effectively make an informed decision about which track you are currently interested in pursuing.
 
 <a id='level_progression'></a>
-## 2. Level progression
+## 2. Level Progression
 
 ### Data Scientist I
 
