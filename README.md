@@ -1,9 +1,8 @@
 # Data Scientists Career Pathways
 ---
-## Contents
-> [1. Getting started](#getting_started)
->
-> [2. Level progression](#level_progression)
+
+> [1. Getting started](#getting_started) | [2. Level progression](#level_progression)
+---
 
 <a id='getting_started'></a>
 ## 1. Getting started
