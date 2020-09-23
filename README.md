@@ -36,9 +36,9 @@
 <a id='level_progression'></a>
 ## 2. Level Progression
 
-##### [DS I](#ds1) | [DS II](#ds2) | [DS III](#ds3) | [DS IV](#ds4) | [DS V](#ds5) | [DS VI](#ds6) | [DS VII](#ds7)
+##### [Data Scientist I](#ds1) | [Data Scientist II](#ds2) | [DS III](#ds3) | [DS IV](#ds4) | [DS V](#ds5) | [DS VI](#ds6) | [DS VII](#ds7)
 
-
+<a id='ds1'></a>
 ### Data Scientist I
 
 **Impact and Influence**
@@ -59,15 +59,33 @@
 **Statistical inference and mathematical modeling**
 - broad knowledge of basic statistical concepts (Bachelors’ equivalent)
 
+<a id='ds2'></a>
 ### Data Scientist II
 
 **Impact and Influence**
-
 - capable of prioritizing and completing tasks with clear direction on process and outcomes
 - effectively leverages team practices, procedures and tools (e.g. agile, data science cookie cutter repo, filepath naming conventions, etc) to complete work, and to minimize repeat mistakes
 - has begun to develop and apply the core skills and knowledge required for the role (e.g. learning source control / editors, the build system, unittest, self-documenting code, etc)
 - has begun to own small-to-medium features for technical design, through to completion 
 - is able to know when to ask for help, in order to get themselves unblocked
+
+**Leadership and Teamwork**
+- demonstrates company's core values and principles in approach to work, and partnership with stakeholders, clients, and teammates
+- demonstrates flexibility and goes beyond immediate role to assist others with day-to-day responsibilities
+
+**Software development and engineering skills**
+- focused on learning and using the team's / BlackRock's existing tools, resources, and processes, drawing upon previous experience in software development
+- writes correct & clean code with guidance, and strives to consistently follow industry and team-wide stated best practices
+- demonstrates the ability to learn quickly, and strives to make steady progress without the need for constant significant feedback from more senior engineers
+- participant in technical design of features, with guidance
+
+**Statistical inference and mathematical modeling**
+- broad knowledge of basic statistical concepts (Bachelors’ equivalent)
+- primary focus at this stage of their career  is growing as a statistician, for example by learning the company's tools / resources / processes, as well as the relationship between data scientists and data engineers within the AI Labs and at BlackRock more broadly
+- strives to understand the underlying assumptions and mechanics of machine learning models and existing libraries, the theory around the development of said models
+- fully understands that data cleaning is the majority of data science work, strives to consistently followed stated best practices (in industry, at BlackRock, and in their respective squad and the AI Labs)
+- actively participates in statistical design with guidance; this includes feature generation, model selection, assumption testing
+- regularly engaging in conversations with manager about benefits / trade-offs of choosing to develop deep expertise in a particular modeling area, or to develop breadth of experience across a range of modeling areas
 
 ### Data Scientist III
 
