@@ -1,6 +1,6 @@
 # Data Science Career Ladders
 
-##### [Getting Started](#getting_started) | [Level Progression](#level_progression)
+##### [Article](#intro_article) | [Getting Started](#getting_started) | [Level Progression](#level_progression)
 
 
 <a id='getting_started'></a>
@@ -41,6 +41,8 @@
 <a id='ds1'></a>
 ### Data Scientist I
 
+[back to top](#level_progression)
+
 **Impact and influence**
 - capable of prioritizing and completing tasks with clear direction on process and outcomes
 - effectively leverages team practices, procedures and tools (e.g. agile, data science cookie cutter repo, filepath naming conventions, etc) to complete work, and to minimize repeat mistakes
@@ -61,6 +63,8 @@
 
 <a id='ds2'></a>
 ### Data Scientist II
+
+[back to top](#level_progression)
 
 **Impact and influence**
 - capable of prioritizing and completing tasks with clear direction on process and outcomes
@@ -96,6 +100,8 @@
 
 <a id='ds3'></a>
 ### Data Scientist III
+
+[back to top](#level_progression)
 
 **Impact and influence**
 - demonstrates persistence in the face of roadblocks, dispatching them efficiently and pulling in others to help as necessary,  sooner rather than later
@@ -180,6 +186,8 @@ _At this point, the career paths split into individual contributor (IC) and mana
 <a id='ds5'></a>
 ### Data Scientist V
 
+[back to top](#level_progression)
+
 |                                                 | IC                                                                                                                                                                                                                                                                                                                                | Manager                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Impact and influence**                            | consistently able to reduce the complexity of projects, services & processes in order to get more done with less work; developing a reputation as a prolific contributor to core & side projects                                                                                                                                  | excels at focusing the team on highest impact projects; proactively identifies and clears roadblocks for the team                                                                                                                                                                                                                                                                                            |
@@ -212,6 +220,10 @@ _At this point, the career paths split into individual contributor (IC) and mana
 <a id='ds6'></a>
 ### Data Scientist VI
 
+[back to top](#level_progression)
 
+<a id='ds7'></a>
 ### Data Scientist VII
+
+[back to top](#level_progression)
 
