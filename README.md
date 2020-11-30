@@ -132,10 +132,10 @@
 - demonstrates persistence in the face of roadblocks, dispatching them efficiently and pulling in others to help as necessary,  sooner rather than later
 - demonstrates the initiative to fix issues before being explicitly assigned to them (this assumes such a culture is fostered on the squad)
 - delivers increasingly complex product features that (they believe) are well-baked and bug-free
-- **has end-to-end responsibility on product building-blocks, or entire products, that are increasingly complex over time; contributes to common code (again, this assumes a sufficent culture on the squad to support these)
-- **identifies & proactively tackles technical debt before it grows to be "too large" i.e. into debt that requires significant upfront work to resolve
-- **scopes & stages work into well-defined milestones to avoid monolithic deliverable; is constantly working to make accurate timeline estimates and deliver to those estimates
-- **owns technical testing, measuring performance for their products, and is developing a reputation for having drama-free launches
+- has end-to-end responsibility on product building-blocks, or entire products, that are increasingly complex over time; contributes to common code (again, this assumes a sufficent culture on the squad to support these)
+- identifies & proactively tackles technical debt before it grows to be "too large" i.e. into debt that requires significant upfront work to resolve
+- scopes & stages work into well-defined milestones to avoid monolithic deliverable; is constantly working to make accurate timeline estimates and deliver to those estimates
+- owns technical testing, measuring performance for their products, and is developing a reputation for having drama-free launches
 
 **Leadership and teamwork**
 - seeks and uses empirical evidence through proof of concepts / tests / external research when identifying and articulating problems / risks of their own work or others'
@@ -143,21 +143,21 @@
 - provides mentorship to junior engineers and teammates via pairing, design and code reviews
 - demonstrates an understanding of the business impact and business units impacted by the work completed on their squad, and uses that understanding to drive requirements that take into account all parties' needs
 - consistently exhibits empathy for the user of the software being built, and uses that as a guide for decision-making
-- **takes initiative to identify and solve high-impact ("important") problems, coordinating with others on cross-cutting technical issues
-- **helps set the direction at the project / service level, and consistently influences decision-making at the squad level
-- **contributes to the culture of learning at the team level by providing help when asked
+- takes initiative to identify and solve high-impact ("important") problems, coordinating with others on cross-cutting technical issues
+- helps set the direction at the project / service level, and consistently influences decision-making at the squad level
+- contributes to the culture of learning at the team level by providing help when asked
 
 **Communication**
 - regularly and effectively communicates technical decisions through design docs, tech talks, and internal team wiki
 - practices communicating across functional groups to become better at effective cross-group communication, ultimately enabling the ability to work well with individuals and teams across different groups and with different incentive structures (e.g. product management, stakeholders, etc)
 - proactively identifies and vocalizes challenges with requirements for both their own work and adjacent work (for example, lack of clarity, inconsistencies, technical limitations)
-- **strives to help teammates grow and improve as individual contributors through code reviews, documentation, technical guidance, mentoring (OR serving as a Tech Lead on a project, see *)
-- **communicates industry-wide and sets team-wide best standards
-- **strives to sit on the model or architecture review group
-- **understands the tradeoffs between technical, analytical, & product needs and communicates the "best" solution that manages those tradeoffs and takes all of these needs into account
-- **is learning how to get buy-in on solutions to technical problems affecting their team
-- **proactively identifies and proposes strategies around technical problems affecting their team
-- **continues to actively solicit feedback, and provides helpful feedback to squad- and teammates on projects outside their core area
+- strives to help teammates grow and improve as individual contributors through code reviews, documentation, technical guidance, mentoring (OR serving as a Tech Lead on a project, see *)
+- communicates industry-wide and sets team-wide best standards
+- strives to sit on the model or architecture review group
+- understands the tradeoffs between technical, analytical, & product needs and communicates the "best" solution that manages those tradeoffs and takes all of these needs into account
+- is learning how to get buy-in on solutions to technical problems affecting their team
+- proactively identifies and proposes strategies around technical problems affecting their team
+- continues to actively solicit feedback, and provides helpful feedback to squad- and teammates on projects outside their core area
 
 **Software development and engineering skills**
 - contributes to and is able to work in other areas of their squad's or the larger team's codebase, with guidance
