@@ -251,9 +251,11 @@ _At this point, the career paths split into individual contributor (IC) and mana
 |                                                     |                                                                                                                                                                                                                                                              | focused on contributing to the architecture by asking the right questions, in order to ensure the architecture and business needs match for that area                                                                                                                                                                             |
 
 <a id='ds7'></a>
-### Data Scientist VII
+### Data Scientist VII*
 
 [<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
+
+_*Purposefully light-weight to allow for the most flexibility in definition._
 
 |                                                     | IC                                                                                                                                                                                                                                                                                                     | Manager                                                                                                              |
 |-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
