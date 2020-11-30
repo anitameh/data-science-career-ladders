@@ -41,7 +41,7 @@
 <a id='ds1'></a>
 ### Data Scientist I
 
-[back to top](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 **Impact and influence**
 - capable of prioritizing and completing tasks with clear direction on process and outcomes
@@ -64,7 +64,7 @@
 <a id='ds2'></a>
 ### Data Scientist II
 
-[back to top](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 **Impact and influence**
 - capable of prioritizing and completing tasks with clear direction on process and outcomes
@@ -101,7 +101,7 @@
 <a id='ds3'></a>
 ### Data Scientist III
 
-[back to top](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 **Impact and influence**
 - demonstrates persistence in the face of roadblocks, dispatching them efficiently and pulling in others to help as necessary,  sooner rather than later
@@ -133,6 +133,8 @@
 
 <a id='ds4'></a>
 ### Data Scientist IV
+
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 **Impact and influence**
 - demonstrates persistence in the face of roadblocks, dispatching them efficiently and pulling in others to help as necessary,  sooner rather than later
@@ -186,7 +188,7 @@ _At this point, the career paths split into individual contributor (IC) and mana
 <a id='ds5'></a>
 ### Data Scientist V
 
-[back to top](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 |                                                 | IC                                                                                                                                                                                                                                                                                                                                | Manager                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -220,10 +222,10 @@ _At this point, the career paths split into individual contributor (IC) and mana
 <a id='ds6'></a>
 ### Data Scientist VI
 
-[<sub><sup>back to top</sub></sup>](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
 <a id='ds7'></a>
 ### Data Scientist VII
 
-[back to top](#level_progression)
+[<sub><sup>BACK TO TOP</sub></sup>](#level_progression)
 
