@@ -220,7 +220,7 @@ _At this point, the career paths split into individual contributor (IC) and mana
 <a id='ds6'></a>
 ### Data Scientist VI
 
-[back to top](#level_progression)
+[<sub><sup>back to top</sub></sup>](#level_progression)
 
 <a id='ds7'></a>
 ### Data Scientist VII
