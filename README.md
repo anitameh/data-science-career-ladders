@@ -8,10 +8,9 @@
 
 ##### 1. Column- and row-names
 
-* There is no expectation that the boxes move in lockstep; in fact, it is highly unlikely that you fall into just one level for every category.
+* There is no expectation that the your progress within the categories move in lockstep; in fact, it is highly unlikely that you fall into just one level for every category.
 * Rather, your level is determined by whether the majority (currently, 3+) of categories fall into a particular level.
-* The bullets outlined in each box are the minimum requirements for you to be at this level in that category.
-* The hope is that this is a resource that 1) provides concrete guidelines that you can lean on and 2) a common language to have this discussion with your manager, and Rachel and Sherry.
+* The bullets outlined in each category are the minimum requirements for you to be at this level in that category.
 
 ##### 2. Can you explain the track split for IC (individual contributor), and management?
 
@@ -22,7 +21,7 @@
 
 ##### 3. Why are there are 7-8 levels, and where did this number come from?
 
-* These ladders were in large part built off of the awesome engineering ladders and best practices leveraged by Rent the Runway, Foursquare, Google, Airbnb, StitchFix, and Amazon. The majority of these ladders seemed to converge on approximately 7-8 levels, which is similarly reflected in these.
+* These ladders were in large part built off of the awesome engineering ladders and best practices leveraged by e.g. Rent the Runway, Foursquare, Google, Airbnb, StitchFix, and Amazon. The majority of these ladders seemed to converge on approximately 7-8 levels, which is similarly reflected in these.
 * There are no publicly available data science career ladders, to our knowledge. As such, these ladders were built, iterated on & discussed dozens of times, and refined with representatives from human resources, data science team leads and people managers.
 * It is totally anticipated that these ladders will evolve over time! If individuals on the team believe more levels should be added - or should be trimmed - to reflect the current state of the team and the industry, this is something your team should expect to discuss and incorporate accordingly.
 
