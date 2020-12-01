@@ -1,12 +1,12 @@
 # Data Science Career Ladders
 
-##### [Article](#intro_article) | [Getting Started](#getting_started) | [Level Progression](#level_progression)
+##### [Article](https://anitamehrotra.medium.com/data-science-career-ladders-6814fa0a8cc) | [Getting Started](#getting_started) | [Level Progression](#level_progression)
 
 
 <a id='getting_started'></a>
 ## Getting Started
 
-##### 1. Level- and Category-names
+##### 1. Levels and Categories
 
 * There is no expectation that the your progress within the categories move in lockstep; in fact, it is highly unlikely that you fall into just one level for every category.
 * Rather, your level is determined by whether the majority (currently, 3+) of categories fall into a particular level.
@@ -32,6 +32,7 @@
 * Of course, these skills are necessarily built on core foundational technological skills, and it is an expectation (as outlined in the ladders) that you establish methods / processes / ways of working for yourself to stay abreast of industry-wide technological changes.
 * However, your core competencies as a team member and leader on this team as you grow in your career  will rely heavily on collaborative skills and empathy, aligned with the values of your team.
 * It is _highly recommended_ that before being promoted from Data Scientist IV to Data Scientist V, an individual has the experience of having the responsibility and accountability associated with being a squad lead. This will allow you to more effectively make an informed decision about which track you are currently interested in pursuing.
+
 
 <a id='level_progression'></a>
 ## 2. Level Progression
